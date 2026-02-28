@@ -6,6 +6,7 @@ This project demonstrates domain-specific fine-tuning of GPT-2 for structured re
 The objective is to showcase practical transfer learning using transformer-based architectures for niche content generation tasks.
 
 Key Features
+
     Domain-adapted text generation
     
     Structured recipe formatting
