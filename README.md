@@ -18,4 +18,16 @@ Key Features
     -> End-to-end training and inference pipeline
 
 
+Technical Stack
+
+-> Python
+
+-> PyTorch
+
+-> Hugging Face Transformers
+
+-> Tokenizers
+
+-> Jupyter Notebook
+
     
