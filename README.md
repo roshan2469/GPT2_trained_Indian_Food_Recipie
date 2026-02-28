@@ -7,7 +7,12 @@ The objective is to showcase practical transfer learning using transformer-based
 
 Key Features
     Domain-adapted text generation
+    
     Structured recipe formatting
+    
     Ingredient-aware prompt completion
+    
     Transfer learning on pretrained GPT-2
+    
     End-to-end training and inference pipeline
+    
