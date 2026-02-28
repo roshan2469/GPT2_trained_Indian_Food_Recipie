@@ -7,38 +7,38 @@ The objective is to showcase practical transfer learning using transformer-based
 
 Key Features
 
-    -> Domain-adapted text generation
+> Domain-adapted text generation
     
-    -> Structured recipe formatting
+> Structured recipe formatting
     
-    -> Ingredient-aware prompt completion
+> Ingredient-aware prompt completion
     
-    -> Transfer learning on pretrained GPT-2
+> Transfer learning on pretrained GPT-2
     
-    -> End-to-end training and inference pipeline
+> End-to-end training and inference pipeline
 
 
 Technical Stack
 
--> Python
+> Python
 
--> PyTorch
+> PyTorch
 
--> Hugging Face Transformers
+> Hugging Face Transformers
 
--> Tokenizers
+> Tokenizers
 
--> Jupyter Notebook
+> Jupyter Notebook
 
 Architecture
 
--> Base model: GPT-2 (pretrained transformer decoder)
+> Base model: GPT-2 (pretrained transformer decoder)
 
--> Fine-tuning on formatted Indian recipe dataset
+> Fine-tuning on formatted Indian recipe dataset
 
--> Causal Language Modeling objective
+> Causal Language Modeling objective
 
--> Prompt-based text generation
+> Prompt-based text generation
 
 Training Pipeline
 
@@ -54,34 +54,34 @@ Training Pipeline
 
 Use Cases
 
--> AI-powered cooking assistants
+> AI-powered cooking assistants
 
--> Culinary content automation
+> Culinary content automation
 
--> Food-tech applications
+> Food-tech applications
 
--> Domain-specific LLM experimentation
+> Domain-specific LLM experimentation
 
 Results
 
--> The model generates structured recipes including:
+> The model generates structured recipes including:
 
--> Dish titles
+> Dish titles
 
--> Ingredient lists
+> Ingredient lists
 
--> Sequential cooking instructions
+> Sequential cooking instructions
 
--> Realistic spice combinations
+> Realistic spice combinations
 
 Future Improvements
 
--> Larger dataset integration
+> Larger dataset integration
 
--> Instruction tuning
+> Instruction tuning
 
--> Evaluation metrics (BLEU, ROUGE)
+> Evaluation metrics (BLEU, ROUGE)
 
--> Deployment via API
+> Deployment via API
 
     
